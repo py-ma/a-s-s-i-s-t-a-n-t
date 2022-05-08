@@ -1,0 +1,17 @@
+beautifulsoup4==4.11.1
+certifi==2021.10.8
+charset-normalizer==2.0.12
+comtypes==1.1.11
+idna==3.3
+PyAudio @ file:///C:/Users/User/Documents/PyAudio-0.2.11-cp39-cp39-win32.whl
+pypiwin32==223
+PyQt5==5.15.6
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.10.1
+PyQt5-stubs==5.15.6.0
+pyttsx3==2.90
+pywin32==303
+requests==2.27.1
+soupsieve==2.3.2.post1
+SpeechRecognition==3.8.1
+urllib3==1.26.9
